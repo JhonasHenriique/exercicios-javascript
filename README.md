@@ -4,7 +4,7 @@ Exercícios feitos durante o módulo de javascript e lógica de programação 1 
 
 ### Tópicos
 
-- [Calculadora Automática - ex1.1](#calculadora-automatica)
+- [Calculadora Automatica - ex1.1](#calculadora-automatica)
 - [Recrutamento - ex1.2](#recrutamento)
 - [Atacante e Defensor - ex2.1](#atacante-e-defensor)
 - [Teste de Velocidade - ex2.2](#teste-de-velocidade)
@@ -12,8 +12,10 @@ Exercícios feitos durante o módulo de javascript e lógica de programação 1 
 - [Turismo - ex4](#turismo)
 - [Menu Interativo - ex5.1](#menu-interativo)
 - [Poupança - ex5.2](#poupança)
+- [Calculadora Robo - ex6.1](#calculadora-robo)
+- [Teste de Palindromo - ex6.2](#teste-de-palindromo)
 
-## Calculadora Automática
+## Calculadora Automatica
 
 ### Proposta 
 
@@ -143,3 +145,23 @@ encerrar o programa.
 ### Aprendido
 
 -  Number()
+
+## Calculadora Robo
+
+### Proposta
+
+Escreva um programa em javascript que seja capaz de calcular a tabuada de um determinado número(de 1 a 20).O programa deve começar pedindo o número a ser usado nos cálculos e então salvar todos os resultados de multiplicações de 1 a 20 usando o número informado dentro de uma variável do tipo string.Depois deve exibir esses resultados e finalizar.
+
+### Aprendido
+
+- estrutura de repetição for
+
+## Teste de Palindromo
+
+### Proposta
+
+Escreva um programa em javascript que seja capaz de identificar se uma palavra é um palíndromo. Um palíndromo é uma plavra que lida de trás para frente possui as mesmas letra na mesma ordem. O programa deve iniciar pedindo que seja informada uma palabvra e então exibir uma mensagem dizendo se aquela palavra é ou não um palíndromo. Caso não seja um palíndromo, o programa deve mostrar a palavra lida da esquerda para direita e da direita para esquerda.
+
+### Aprendido
+
+- propriedade length e length - 1
